@@ -1,0 +1,36 @@
+.App {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.navbar {
+  margin-top: 15px;
+}
+
+.navbar .nav li a.active {
+  color: #337ab7;
+}
+
+.navbar .nav li a.active:hover {
+  color: #337ab7;
+}
+
+.table-list {
+  margin-top: 30px;
+}
+
+.glyphicon:before {
+  margin-right: 10px;
+}
+
+.navigation {
+  line-height: 50px;
+  margin: 0 10px;
+  font-weight: 400;
+}
+
+.navigation:hover {
+  color: #ccc;
+  text-decoration: none;
+}
